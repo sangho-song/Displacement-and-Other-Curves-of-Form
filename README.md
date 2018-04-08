@@ -1,2 +1,3 @@
-# Hydrostatic-and-other-Curves
-Create Hydrostatic-and-other-Curves
+# Hydrostatic-and-other-Curves Project
+Ship Production Research Lab
+Create Hydrostatic-and-other-Curves using python
