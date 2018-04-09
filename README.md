@@ -1,3 +1,4 @@
-# Hydrostatic-and-other-Curves Project
-Ship Production Research Lab
-Create Hydrostatic-and-other-Curves using python
+# Displacement-and-Other-Curves-of-Form Project
+## Ship Production Research Lab
+---
+## Create Displacement-and-Other-Curves-of-Form using python
