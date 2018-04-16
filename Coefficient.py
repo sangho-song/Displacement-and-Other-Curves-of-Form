@@ -1,4 +1,5 @@
 # Coefficient of Form
+# semina test
 class Coefficient:
     def __init__(self, L, B, T, V):
         self.L = L
